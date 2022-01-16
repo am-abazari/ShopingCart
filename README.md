@@ -3,7 +3,7 @@
 Example of Shopping Cart implemented in React.js using API.
 
 
-<img width="800" alt="React Messenger Screenshot" src="https://media.discordapp.net/attachments/762383336994766938/907399186020990986/Screenshot_159.png?width=1324&height=779"/>
+<img width="800" alt="IMG" src="./img.png"/>
 
 Simple and optimized React Shoping Cart [( See Demo )](https://amshopingcart.netlify.app/) . It includes: 
 
