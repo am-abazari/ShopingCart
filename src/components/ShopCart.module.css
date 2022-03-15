@@ -12,14 +12,13 @@
 
 .payments {
   width: 27%;
-  background: #fff;
-  border: 1px solid silver;
+  background: #283046;
   border-radius: 5px;
   text-align: left;
 }
 
 .payments p {
-  color: rgb(61, 61, 61);
+  color: white;
   margin: 20px 20px 10px;
 }
 
