@@ -3,7 +3,7 @@
 Example of Shopping Cart implemented in React.js using API.
 
 
-<img width="800" alt="IMG" src="./image.png"/>
+<img width="800" alt="IMG" src="./img.png"/>
 
 Simple and optimized React Shoping Cart [( See Demo )](https://amshopingcart.netlify.app/) . It includes: 
 
