@@ -1,10 +1,10 @@
 .mainContainer {
-  background-color: #283046;
+  background-color: #ECEDF3;
   margin: 0 0 100px;
   position: fixed;
   top: 0;
   width: 100%;
-  box-shadow: 0px 5px 24px #1f2937
+  box-shadow: 0px 5px 5px #d1d1d1
 }
 
 .container {
